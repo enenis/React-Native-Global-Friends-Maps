@@ -11,7 +11,7 @@
 <br>
 <hr>
 <b>Rooms Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/224668719-ebe7ffee-01a3-4476-8076-2440fc12f585.png" width="370" height="800" />
+<img src="" width="370" height="800" />
 <br>
 <hr>
 <b>Room Create Screen:<br></b>
