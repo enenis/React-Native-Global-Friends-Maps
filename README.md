@@ -14,3 +14,5 @@
 ~Enis Kayra Yavuz
 enenissoftware
 <hr>
+https://user-images.githubusercontent.com/99321522/226100600-72f891dc-bf6b-4116-8387-07f5364f94c8.png
+https://user-images.githubusercontent.com/99321522/226100605-6c2579c8-d0a8-4d4d-b248-d99c0066a336.png
