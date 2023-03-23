@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/99321522/226100605-6c2579c8-d0a8-4d4d-b248-d99c0066a336.png" width="370" height="800" />
 <br>
 <hr>
-<small>Thank you so much for reading and reviewing this far..</small><br>
+<small>Thank you so much for reading and reviewing this far...</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
 <hr>
